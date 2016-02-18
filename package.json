@@ -1,0 +1,31 @@
+{
+    "name": "google-maps-app",
+    "main": "index.html",
+    "maintainers": [
+        {
+            "name": "Luis Enrique Arriojas",
+            "web": "http://www.luisarriojas.com"
+        }
+    ],
+    "description": "Google Maps app for NW.js.",
+    "version": "1.0",
+    "window": {
+        "icon": "google-maps-app.png",
+        "toolbar": false,
+        "frame": true,
+        "width": 1366,
+        "height": 768
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git@github.com:luisarriojas/google-maps-app.git"
+        }
+    ]
+}
