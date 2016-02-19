@@ -10,7 +10,7 @@
     "description": "Google Maps app for NW.js.",
     "version": "1.0",
     "window": {
-        "icon": "google-maps-app.png",
+        "icon": "google-maps.png",
         "toolbar": false,
         "frame": true,
         "width": 1366,
